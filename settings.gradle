@@ -1,0 +1,7 @@
+/*
+ * Gradle project settings
+ */
+
+rootProject.name = 'ticket-booking'
+
+include('app')

@@ -1,0 +1,68 @@
+[ {
+  "name" : "Lovepreet Singh",
+  "password" : "12345",
+  "hashed_password" : "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+  "tickets_booked" : [ {
+    "ticket_id" : "your_ticket_id",
+    "user_id" : "abcdefgh",
+    "source" : "Bangalore",
+    "destination" : "Delhi",
+    "date_of_travel" : "2023-12-08T18:30:00Z",
+    "train" : {
+      "train_id" : "bacs",
+      "train_no" : "12345",
+      "seats" : [ [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "station_times" : {
+        "Bangalore" : "13:50:00",
+        "Jaipur" : "13:50:00",
+        "Delhi" : "13:50:00"
+      },
+      "stations" : [ "Bangalore", "Jaipur", "Delhi" ],
+      "train_info" : "Train ID: bacs Train No: 12345"
+    },
+    "ticket_info" : "Ticket ID: your_ticket_id belongs to User abcdefgh from Bangalore to Delhi on 2023-12-08T18:30:00Z"
+  } ],
+  "user_id" : "abcdefgh"
+}, {
+  "name" : "rahul",
+  "password" : "hhbb11",
+  "hashed_password" : "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+  "tickets_booked" : [ ],
+  "user_id" : "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+}, {
+  "name" : "1",
+  "password" : "SDFSDF",
+  "hashed_password" : "$2a$10$thPmKO2gVL2ib8lGpy4fZu5UR8DfKt4FaoZ0ofYyiUySPC2Nkxcuu",
+  "tickets_booked" : [ ],
+  "user_id" : "df77c15d-d64c-4b86-a508-38d5db9b430c"
+}, {
+  "name" : "vivvekks",
+  "password" : "12345",
+  "hashed_password" : "$2a$10$W6BWmT.X8PbGdO2NLmd.zeueHpB4FYIPJDxixfQ6nET6bxoFG7/hS",
+  "tickets_booked" : [ ],
+  "user_id" : "096518c6-6b51-4477-8747-ed841b0d10fe"
+}, {
+  "name" : "vivek",
+  "password" : "123",
+  "hashed_password" : "$2a$10$PEJoy0jbYH5TfKb60.UDieMCQ6wAzdgANMVurIiycPf/5sGa6BzK6",
+  "tickets_booked" : [ ],
+  "user_id" : "9daf809e-f5d3-457d-b605-609ef28f75e7"
+}, {
+  "name" : "vivek",
+  "password" : "123",
+  "hashed_password" : "$2a$10$T0xtFEfpXlClY/4rFQjSIuAx7SueERzM8954XDgS7/oJ.CNbo3SJC",
+  "tickets_booked" : [ ],
+  "user_id" : "2af64f2f-9502-4f0c-b800-86b1b1f5449f"
+}, {
+  "name" : "vivek",
+  "password" : "kumar",
+  "hashed_password" : "$2a$10$vzJik9WwXfszDFBXggvQBO8ZiYWvcH0qMEDT0pNWSGXkfVY77HuiO",
+  "tickets_booked" : [ ],
+  "user_id" : "046c778c-02c8-422e-996e-c6f470dc3a66"
+}, {
+  "name" : "testuser",
+  "password" : "12345",
+  "hashed_password" : "$2a$10$x50e9JV5tu7RJpQYt/Z0OuUcrxDH4RB2fOZC./nigZLvc7JR7naCe",
+  "tickets_booked" : [ ],
+  "user_id" : "e3355a65-9ad8-4a3a-a452-f88cfc167cac"
+} ]
